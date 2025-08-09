@@ -20,5 +20,19 @@ body{
       background-repeat: no-repeat;
       background-size: cover;
       width: 233px;
-      height: 244px;
+      height: 114px;
+      position:absolute;
+      bottom: 0;
+      left:52px ;
+
+}
+
+.obstacle{
+    background-image: url(dragon.png);
+     background-size: cover;
+     width: 166px;
+     height: 113px;
+     position: absolute;
+     bottom: 0;
+     left: 44vw;
 }
